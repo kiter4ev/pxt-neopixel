@@ -1,7 +1,7 @@
 {
-    "name": "neopixel",
+    "name": "tft",
     "version": "0.6.7",
-    "description": "AdaFruit NeoPixel driver",
+    "description": "tft ",
     "license": "MIT",
     "dependencies": {
         "core": "*",
